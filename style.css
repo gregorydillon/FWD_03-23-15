@@ -86,3 +86,21 @@ body {
 	clear: both;
 	height: 0;
 }
+
+.warning{
+  color: darkred;
+}
+
+.error{
+  color: red;
+
+}
+
+favorited .favorite{
+  background: orange;
+}
+retweeted .retweet{
+  background: green;
+}
+
+
